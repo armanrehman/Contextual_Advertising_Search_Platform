@@ -31,7 +31,7 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py createsuperuser
 python3 manage.py runserver
-
+```
 ## Access the App:
 - To access the app, open your browser and visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
