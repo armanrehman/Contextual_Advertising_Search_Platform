@@ -1,4 +1,4 @@
-# Contextual Advertising Platform
+![127 0 0 1_8000_ (4)](https://github.com/user-attachments/assets/9d08e749-f24c-4f1c-a11b-b9eae3e25146)# Contextual Advertising Platform
 
 ## Overview
 This project is built using Python, Django, and several other technologies. The platform extracts relevant keywords from any given blog article URL and matches them with advertisements in the database. This allows the display of ads that are highly relevant to the content of the blog.
@@ -47,6 +47,18 @@ python3 manage.py runserver
 ## Notes:
 - **Superuser Required for Adding Ads**: A superuser account is required to add new advertisements and tags for matching. You can manage ads via the Django admin interface.
 - **Tailwind CSS Styling**: The app is styled using Tailwind CSS, which employs utility-first classes. You can further customize the styles by adjusting the classes in the HTML templates.
+
+
+## images for showcasing the webpage and its functionality
+
+![127 0 0 1_8000_ (3)](https://github.com/user-attachments/assets/9a3b7fed-869d-49ee-95ae-436a12722039)
+
+![127 0 0 1_8000_](https://github.com/user-attachments/assets/74c477e3-d4bc-4c04-9e71-192d3249feb7)
+
+![127 0 0 1_8000_ (4)](https://github.com/user-attachments/assets/668a8c66-ecf4-40a8-95db-cac28e10faf3)
+
+![127 0 0 1_8000_ (1)](https://github.com/user-attachments/assets/cafe396d-90d2-434b-b4d4-68464da5aca6)
+
 
 
 
